@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE41BC2E1FFB8E0100B36DBE /* ExpandableLabelNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE41BC2D1FFB8E0100B36DBE /* ExpandableLabelNew.swift */; };
+		CE41BC301FFB914800B36DBE /* ViewControllerNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE41BC2F1FFB914800B36DBE /* ViewControllerNew.swift */; };
 		CE83F4531FF5359200528986 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83F4521FF5359200528986 /* AppDelegate.swift */; };
 		CE83F4551FF5359200528986 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83F4541FF5359200528986 /* ViewController.swift */; };
 		CE83F4581FF5359200528986 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE83F4561FF5359200528986 /* Main.storyboard */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE41BC2D1FFB8E0100B36DBE /* ExpandableLabelNew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableLabelNew.swift; sourceTree = "<group>"; };
+		CE41BC2F1FFB914800B36DBE /* ViewControllerNew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNew.swift; sourceTree = "<group>"; };
 		CE83F44F1FF5359200528986 /* ExpandableLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpandableLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE83F4521FF5359200528986 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE83F4541FF5359200528986 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				CE83F45B1FF5359200528986 /* LaunchScreen.storyboard */,
 				CE83F45E1FF5359200528986 /* Info.plist */,
 				CE83F4801FF5361900528986 /* ExpandableLabel.swift */,
+				CE41BC2D1FFB8E0100B36DBE /* ExpandableLabelNew.swift */,
+				CE41BC2F1FFB914800B36DBE /* ViewControllerNew.swift */,
 			);
 			path = ExpandableLabel;
 			sourceTree = "<group>";
@@ -263,8 +269,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE83F4551FF5359200528986 /* ViewController.swift in Sources */,
+				CE41BC2E1FFB8E0100B36DBE /* ExpandableLabelNew.swift in Sources */,
 				CE83F4531FF5359200528986 /* AppDelegate.swift in Sources */,
 				CE83F4811FF5361900528986 /* ExpandableLabel.swift in Sources */,
+				CE41BC301FFB914800B36DBE /* ViewControllerNew.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
